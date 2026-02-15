@@ -47,3 +47,10 @@ To analyze candidate data and understand:
 - Power BI
 - DAX
 - Power Query
+
+- ## Key Insights
+
+- Mid-level experience professionals show higher job mobility.
+- Smaller companies experience higher job change percentage.
+- Education level influences attrition behavior.
+- City development index correlates with candidate movement.
